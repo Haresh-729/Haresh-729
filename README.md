@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Haresh-729
+- 📍Am from India.🇮🇳
 - 👀 I’m interested in exploring new technologies 
 - 🌱 I’m currently learning to code efficiently
 - 💞️ I’m looking to collaborate on Android or Web based projects or internships 
