@@ -33,6 +33,115 @@
 - 🌱 I’m currently learning to code efficiently
 - 💞️ I’m looking to collaborate on Android or Web based projects or internships 
 - 📫 contact me on kuradeharesh4002@gmail.com 
+---
+### :scroll: Languages :
+<div>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/CPP">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/C-sharp">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Java">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Python">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/R">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  </a>
+</div>
 
+### :atom: Scripting languages & Frameworks :
+<div>
+  <a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/CSS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/React">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/.net">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Firebase">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="55" height="50"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Node.js">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/MongoDB">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/MySQL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Git">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  </a>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Haresh-729)](https://git.io/streak-stats)
+### 💻 🛠️ IDEs & Tools:
+<div>
+  <a href="https://en.wikipedia.org/wiki/Android_Studio">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Figma_(software)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Canva">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
+    </a>
+</div>
+
+---
+### :fire: My Status :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haresh-729)](https://github.com/Haresh-729)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact)](https://github.com/Haresh-729)
