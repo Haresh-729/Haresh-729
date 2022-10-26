@@ -144,4 +144,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haresh-729)](https://github.com/Haresh-729)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact)](https://github.com/Haresh-729)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729)](https://github.com/Haresh-729)
