@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/haresh-kurade-22a04b241">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UC6eNSDkXuEucG97AsVyR6hQ">
     <img src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -32,7 +29,7 @@
 - 👀 I’m interested in exploring new technologies 
 - 🌱 I’m currently learning to code efficiently
 - 💞️ I’m looking to collaborate on Android or Web based projects or internships 
-- 📫 contact me on kuradeharesh4002@gmail.com 
+- 📫 contact me on kuradeharesh4002@gmail.com || www.linkedin.com/in/haresh-kurade-22a04b241
 ---
 ### :scroll: Languages :
 <div>
