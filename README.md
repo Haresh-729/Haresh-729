@@ -1,3 +1,8 @@
+<div align="center" style="display: flex; flex-direction: row;">
+  <p>I am a</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=400&color=EB0B24&center=true&width=435&lines=Student;Programmer;Problem+Solver;Project+Manager;Frontend+Developer;Database+Manager" alt="Typing SVG" /></a>
+</div>
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
 </div>
@@ -20,9 +25,8 @@
   <img src="https://komarev.com/ghpvc/?username=Haresh-729&style=flat-square&color=blue" alt=""/>
    <h1>       Hello 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h1>
+  </h1>
 </div>
-
 
 - 👋 Hi, I’m @Haresh-729
 - 📍Am from India.🇮🇳
@@ -138,7 +142,6 @@
 
 ---
 ### :fire: My Status :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haresh-729)](https://github.com/Haresh-729)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact)](https://github.com/Haresh-729)
