@@ -147,3 +147,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haresh-729)](https://github.com/Haresh-729)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact)](https://github.com/Haresh-729)
+
+### :trophy: My Trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haresh-729)](https://github.com/Haresh-729)
