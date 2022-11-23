@@ -143,10 +143,24 @@
 </div>
 
 ---
-### :fire: My Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haresh-729)](https://github.com/Haresh-729)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact)](https://github.com/Haresh-729)
+<div align="center">
+<h3>🔥: My Status :</h3>
+  <a href="https://github.com/Haresh-729">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Haresh-729" alt="streak"/>
+  </a>
+</div>
 
-### :trophy: My Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=Haresh-729)](https://github.com/Haresh-729)
+<div align="center">
+<h3>✨: Languages Used :</h3>
+  <a href="https://github.com/Haresh-729">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact" alt="streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏆: My Trophies :</h3>
+<a href="https://github.com/Haresh-729">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haresh-729" alt="trophies"/>
+</a>
+</div>
