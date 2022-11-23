@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex; flex-direction: row; background-color:#33475b">
   <p>I am a</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=400&color=EB0B24&center=true&width=435&lines=Student;Programmer;Problem+Solver;Project+Manager;Frontend+Developer;Database+Manager" alt="Typing SVG" /></a>
 </div>
