@@ -30,8 +30,8 @@
 
 - 👋 Hi, I’m @Haresh-729
 - 📍Am from India.🇮🇳
-- 👀 I’m interested in exploring new technologies 
-- 🌱 I’m currently learning to code efficiently
+- 👀 I’m interested in exploring new technologies.
+- 🌱 I’m currently learning to code efficiently.
 - 💞️ I’m looking to collaborate on Android or Web based projects or internships 
 - 📫 contact me on kuradeharesh4002@gmail.com || www.linkedin.com/in/haresh-kurade-22a04b241
 - 🌐 My Portfoli website https://haresh-729.github.io/My_Portfolio/
