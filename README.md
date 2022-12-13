@@ -147,7 +147,7 @@
 <div align="center">
 <h3>🔥: My Status :</h3>
   <a href="https://github.com/Haresh-729">
-    <img src=""/>
+    <img src="https://streak-stats.demolab.com?user=Haresh-729&theme=flag-india&border_radius=6&date_format=j%20M%5B%20Y%5D&stroke=F9F20B"/>
   </a>
 </div>
 
