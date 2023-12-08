@@ -37,7 +37,7 @@
 - 🌐 My Portfoli website https://hareshkurade.me/My_Portfolio/
 - 💪 My contributions https://github.com/Haresh-729?tab=repositories
 ---
-### :scroll: Languages :
+### 📜 Languages :
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -68,7 +68,7 @@
   </a>
 </div>
 
-### :atom: Scripting languages & Frameworks :
+### ⚛️ Scripting languages & Frameworks :
 <div>
   <a href="https://en.wikipedia.org/wiki/HTML">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
