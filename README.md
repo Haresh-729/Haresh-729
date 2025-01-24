@@ -152,9 +152,13 @@
 </div>
 
 <div align="center">
-<h3>✨: Languages Used :</h3>
+<!-- <h3>✨: Languages Used :</h3> -->
   <a href="https://github.com/Haresh-729">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact" alt="streak"/>
+    <img src="https://raw.githubusercontent.com/Haresh-729/Stats/master/generated/overview.svg" alt="stats"/>
+  </a>
+  <a href="https://github.com/Haresh-729">
+    <img src="https://raw.githubusercontent.com/Haresh-729/Stats/master/generated/languages.svg" alt="stats"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haresh-729&layout=compact" alt="streak"/> -->
   </a>
 </div>
 
