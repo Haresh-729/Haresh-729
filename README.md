@@ -61,109 +61,26 @@
     <tr>
       <!-- CARD 1: GreenTrace -->
       <td width="33%" valign="top" align="center" style="padding: 10px; vertical-align: top;">
-        <img src="https://img.shields.io/badge/WEB%20APP-7B57FF?style=for-the-badge" alt="Web App">
-        <a href="https://greentrace.netlify.app/">
-  <img src="https://raw.githubusercontent.com/Haresh-729/projimgs/main/publicDisplayimages/g1.png" alt="GreenTrace Screenshot" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
-</a>
-        <h3>GreenTrace</h3>
-        <p>Track, Reduce, and Gamify Your Carbon Footprint</p>
-<!--         <div style="margin: 10px 0;">
-          <a href="" title="GitHub Repository">
-            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-          </a>
-          <a href="" title="Live Demo">
-            <img src="https://img.shields.io/badge/Live%20Demo-red?style=for-the-badge&logo=googlechrome" alt="Live Demo">
-          </a>
-        </div> -->
-        <div style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-          <img src="https://img.shields.io/badge/+10-lightgrey?style=flat" alt="+10 more techs">
-        </div>
-<!--         <div style="margin: 10px 0;">
-          <a href="https://github.com/user1" title="User 1"><img src="https://avatars.githubusercontent.com/user1?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/user2" title="User 2"><img src="https://avatars.githubusercontent.com/user2?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/user3" title="User 3"><img src="https://avatars.githubusercontent.com/user3?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/user4" title="User 4"><img src="https://avatars.githubusercontent.com/user4?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <br><small>4 contributors</small>
-        </div> -->
         <a href="https://greentrace.netlify.app">
-          <img src="https://img.shields.io/badge/View_Project-FF9C24?style=for-the-badge" alt="View Project">
+          <img src="https://quikdec.vercel.app/api/project-card?title=GreenTrace&desc=Track%2C+Reduce%2C+and+Gamify+Your+Carbon+Footprint&date=Apr+2025&cover=https%3A%2F%2Fraw.githubusercontent.com%2FHaresh-729%2Fprojimgs%2Fmain%2FpublicDisplayimages%2Fg1.png&tech=React.js%2CNode.js%2CExpress.js%2CPostgreSQL&contributors=4&additionalTechs=10&theme=blue&width=420&height=480&imageHeight=200" alt="View Project">
         </a>
       </td>
       <!-- CARD 2: Fit Sync -->
       <td width="33%" valign="top" align="center" style="padding: 10px; vertical-align: top;">
-        <img src="https://img.shields.io/badge/WEB%20APP-7B57FF?style=for-the-badge" alt="Web App">
         <a href="https://hareshkurade.netlify.app/projects/2">
-  <img src="https://raw.githubusercontent.com/Haresh-729/projimgs/main/publicDisplayimages/fs1.png" alt="FitSync Screenshot" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
-</a>
-        <h3>Fit Sync</h3>
-        <p>Engage, compete, and perfect your moves with AI-powered fitness tracking.</p>
-<!--         <div style="margin: 10px 0;">
-          <a href="https://hareshkurade.netlify.app/projects/2" title="GitHub Repository">
-            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-          </a>
-          <a href="" title="Live Demo">
-            <img src="https://img.shields.io/badge/Live%20Demo-red?style=for-the-badge&logo=googlechrome" alt="Live Demo">
-          </a>
-        </div> -->
-        <div style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS">
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
-          <img src="https://img.shields.io/badge/ChartJS-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="ChartJS">
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
-          <img src="https://img.shields.io/badge/+10-lightgrey?style=flat" alt="+10 more techs">
-        </div>
-<!--         <div style="margin: 10px 0;">
-          <a href="https://github.com/userA" title="User A"><img src="https://avatars.githubusercontent.com/userA?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/userB" title="User B"><img src="https://avatars.githubusercontent.com/userB?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/userC" title="User C"><img src="https://avatars.githubusercontent.com/userC?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/userD" title="User D"><img src="https://avatars.githubusercontent.com/userD?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <br><small>4 contributors</small>
-        </div> -->
-        <a href="https://hareshkurade.netlify.app/projects/2">
-          <img src="https://img.shields.io/badge/View_Project-FF9C24?style=for-the-badge" alt="View Project">
+          <img src="https://quikdec.vercel.app/api/project-card?title=GreenTrace&desc=Track%2C+Reduce%2C+and+Gamify+Your+Carbon+Footprint&date=Apr+2025&cover=https%3A%2F%2Fraw.githubusercontent.com%2FHaresh-729%2Fprojimgs%2Fmain%2FpublicDisplayimages%2Fg1.png&tech=React.js%2CNode.js%2CExpress.js%2CPostgreSQL&contributors=4&additionalTechs=10&theme=blue&width=420&height=480&imageHeight=200" alt="View Project">
         </a>
       </td>
       <!-- CARD 3: ReGenest -->
       <td width="33%" valign="top" align="center" style="padding: 10px; vertical-align: top;">
-        <img src="https://img.shields.io/badge/WEB%20APP-7B57FF?style=for-the-badge" alt="Web App">
         <a href="https://regenest.netlify.app/">
-  <img src="https://raw.githubusercontent.com/Haresh-729/projimgs/main/publicDisplayimages/r1.png" alt="GreenTrace Screenshot" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
-</a>
-        <h3>ReGenest</h3>
-        <p>Smart, Secure & Sustainable – Revolut Renewable Energy Investments</p>
-<!--         <div style="margin: 10px 0;">
-          <a href="" title="GitHub Repository">
-            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-          </a>
-          <a href="https://regenest.netlify.app/" title="Live Demo">
-            <img src="https://img.shields.io/badge/Live%20Demo-red?style=for-the-badge&logo=googlechrome" alt="Live Demo">
-          </a>
-        </div> -->
-        <div style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-          <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
-          <img src="https://img.shields.io/badge/+8-lightgrey?style=flat" alt="+8 more techs">
-        </div>
-<!--         <div style="margin: 10px 0;">
-          <a href="https://github.com/dev1" title="Dev 1"><img src="https://avatars.githubusercontent.com/dev1?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/dev2" title="Dev 2"><img src="https://avatars.githubusercontent.com/dev2?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/dev3" title="Dev 3"><img src="https://avatars.githubusercontent.com/dev3?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <a href="https://github.com/dev4" title="Dev 4"><img src="https://avatars.githubusercontent.com/dev4?size=30" width="30" height="30" style="border-radius: 50%; margin: 0 2px;"></a>
-          <br><small>4 contributors</small>
-        </div> -->
-        <a href="https://regenest.netlify.app/">
-          <img src="https://img.shields.io/badge/View_Project-FF9C24?style=for-the-badge" alt="View Project">
+          <img src="https://quikdec.vercel.app/api/project-card?title=GreenTrace&desc=Track%2C+Reduce%2C+and+Gamify+Your+Carbon+Footprint&date=Apr+2025&cover=https%3A%2F%2Fraw.githubusercontent.com%2FHaresh-729%2Fprojimgs%2Fmain%2FpublicDisplayimages%2Fg1.png&tech=React.js%2CNode.js%2CExpress.js%2CPostgreSQL&contributors=4&additionalTechs=10&theme=blue&width=420&height=480&imageHeight=200" alt="View Project">
         </a>
       </td>
     </tr>
   </table>
 </div>
+<img src="https://quikdec.vercel.app/api/project-card?title=GreenTrace&desc=Track%2C+Reduce%2C+and+Gamify+Your+Carbon+Footprint&date=Apr+2025&cover=https%3A%2F%2Fraw.githubusercontent.com%2FHaresh-729%2Fprojimgs%2Fmain%2FpublicDisplayimages%2Fg1.png&tech=React.js%2CNode.js%2CExpress.js%2CPostgreSQL&contributors=4&additionalTechs=10&theme=blue&width=420&height=480&imageHeight=200" alt="GreenTrace" />
 
 <!-- End of my Projects...! -->
 
