@@ -8,6 +8,9 @@
   </div>
 
   <div>
+    <a href="https://wakatime.com/@haresh_729">
+      <img src="https://wakatime.com/badge/user/f06f26eb-fc2f-4538-b97c-f5c0e754ca85.svg" alt="WakaTime Badge"/>
+    </a> <br/>
     <a href="https://www.youtube.com/channel/UC6eNSDkXuEucG97AsVyR6hQ">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
